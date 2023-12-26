@@ -3,7 +3,7 @@
 ..
 - 🌱 I’m currently learning .software engineering..
 - 💞️ I’m looking to collaborate on .artificial intelligence..
-- 📫 How to reach me ...0756515991
+- 📫 How to reach me ...0679874420
 
 <!---
 Johnsonri/Johnsonri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
